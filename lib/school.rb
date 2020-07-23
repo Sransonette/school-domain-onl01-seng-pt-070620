@@ -20,7 +20,9 @@ class School
     end
   end
 
-  def sort 
+  def sort
+    roster.sort do |x, y|
+      if x 
   end
 
 
