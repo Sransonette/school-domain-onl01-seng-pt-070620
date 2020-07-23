@@ -22,7 +22,6 @@ class School
 
   def sort
     roster.sort do |x, y|
-      if x 
   end
 
 
