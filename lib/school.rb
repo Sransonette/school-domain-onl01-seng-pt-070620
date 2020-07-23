@@ -17,5 +17,6 @@ class School
       if x == name
         return y 
       end
+    end
   end
 end
