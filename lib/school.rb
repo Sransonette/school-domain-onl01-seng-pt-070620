@@ -16,11 +16,5 @@ class School
     roster.detect do |x, y|
       if x == name
         return y 
-      end   /
-      '
-      /\/];];.\.
-      '.]
-      ].
-      .
-
+      end
 end
