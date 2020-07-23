@@ -22,6 +22,7 @@ class School
 
   def sort
     roster.sort do |x, y|
+    end
   end
 
 
